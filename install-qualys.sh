@@ -6,8 +6,8 @@
 # ================================================
 
 # Dados de instalação
-QUALYS_URL_DEB="https://github.com/maxsouzacarvalho/share/blob/main/QualysCloudAgent.deb"
-QUALYS_URL_RPM="https://github.com/maxsouzacarvalho/share/blob/main/QualysCloudAgent%20.rpm"
+QUALYS_URL_DEB="https://raw.githubusercontent.com/maxsouzacarvalho/share/refs/heads/main/QualysCloudAgent.deb"
+QUALYS_URL_RPM="https://raw.githubusercontent.com/maxsouzacarvalho/share/refs/heads/main/QualysCloudAgent.rpm"
 ACTIVATION_ID="0f01d689-bd5d-4f81-897b-a35092eedec4"
 CUSTOMER_ID="e591ced3-984d-4076-82dd-4d7e36c79036"
 SERVER_URI="https://qagpublic.qg2.apps.qualys.com/CloudAgent"
