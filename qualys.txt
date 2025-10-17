@@ -1,0 +1,1 @@
+/usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=0f01d689-bd5d-4f81-897b-a35092eedec4 CustomerId=e591ced3-984d-4076-82dd-4d7e36c79036 ServerUri=https://qagpublic.qg2.apps.qualys.com/CloudAgent/
